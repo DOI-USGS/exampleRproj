@@ -1,0 +1,74 @@
+[
+  {
+    "name": "exampleRproj",
+    "organization": "U.S. Geological Survey",
+    "description": "Example repo of a very basic RStudio project setup. Used for Intro to R classes.",
+    "version": "main",
+    "status": "Development",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/USGS-R/exampleRproj/blob/main/LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "https://github.com/USGS-R/exampleRproj/",
+    "downloadURL": "https://github.com/USGS-R/exampleRproj/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USGS-R/exampleRproj/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USGS-R/exampleRproj.git",
+    "vcs": "git",
+    "laborHours": -1,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "",
+      "email": "FILL ME IN"
+    },
+    "date": {
+      "metadataLastUpdated": "2023-04-07"
+    }
+  },
+  {
+    "name": "",
+    "organization": "U.S. Geological Survey",
+    "description": "",
+    "version": "v0.0.0",
+    "status": "Ideation",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "repositoryURL": "",
+    "vcs": "git",
+    "laborHours": 1,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "",
+      "email": ""
+    },
+    "date": {
+      "metadataLastUpdated": "2022-10-16"
+    }
+  }
+]
